@@ -1,0 +1,7 @@
+torch
+transformers
+pyaudio
+whisper
+keyboard
+reportlab
+tk
